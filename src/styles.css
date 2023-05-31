@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.App h1 {
+  font-size: 25px;
+}
+
+.App h2 {
+  text-align: justify;
+  padding: 0 20px;
+  font-size: 20px;
+}
